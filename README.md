@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My GitHub Website</title>
+  <title>Coming Soon ....</title>
 </head>
 <body>
   <h1>Welcome to my website!</h1>
-  <p>This site is hosted for free using GitHub Pages.</p>
+  <p>Coming Soon ...</p>
 </body>
 </html>
